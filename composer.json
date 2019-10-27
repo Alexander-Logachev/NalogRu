@@ -1,0 +1,16 @@
+{
+    "name": "logachev/nalog-ru",
+    "description": "Получаем ИНН из ФНС",
+    "authors": [
+        {
+            "name": "Alexander Logachev",
+            "email": "alex@logachev.pro"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
